@@ -110,6 +110,12 @@ facultyCount
 
 1. Install dependencies
 
+
+```bash
+git clone https://github.com/accreditation-zkapp.git
+cd accreditation-zkapp
+```
+
 ```bash
 npm install
 ```
